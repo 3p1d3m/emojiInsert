@@ -26,7 +26,7 @@ insert_cross()   # Inserts ❌   my shortcut is Ctrl +  X
 
 # License
 
-## MIT License
+- MIT License
 
 
 
