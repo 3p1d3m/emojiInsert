@@ -7,7 +7,7 @@ Maintainer: Berhe Etsay Tesfay <berhe.etsay@gmail.com>
 Description: This package allows you to insert emojis like ✅, ❌, 🎯, 🎉 into your R script using simple functions.
 License: MIT + file LICENSE
 Depends:
-  R (>= 3.5.0)
+  R (>= 4.4.2)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 Imports:
