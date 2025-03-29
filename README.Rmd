@@ -1,0 +1,40 @@
+---
+title: "emojiInsert"
+output: github_document
+---
+
+# emojiInsert
+
+A simple R package to insert emojis directly into RStudio using custom keyboard shortcuts.
+
+## Installation
+
+You can install the package from GitHub with the following command:
+
+```{r}
+devtools::install_github("3p1d3m/emojiInsert")
+
+```
+
+# to use the emojis with short cut you have to modify the short cau in the Tools. 
+
+```{r }
+insert_check()   # Inserts ✅  my shortcut is Ctrl +  C
+insert_cross()   # Inserts ❌   my shortcut is Ctrl +  X
+
+```
+
+# License
+
+## MIT License
+
+
+
+
+
+
+
+
+
+
+
